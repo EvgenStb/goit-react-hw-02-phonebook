@@ -1,0 +1,19 @@
+li {
+    display: flex;
+    justify-content: left;
+    
+}
+li >button {
+    margin-left: 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.contact__name {
+    font-weight: 600;
+    margin-right: 10px;
+}
+.contact__number{
+    margin-left: 10px;
+}
